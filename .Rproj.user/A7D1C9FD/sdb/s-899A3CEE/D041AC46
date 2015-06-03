@@ -1,0 +1,18 @@
+{
+    "contents" : "#' A Function to find the mean of a subject's scores\n#'\n#' @param scores an R object containing scores for each response\n#' @return the value of the mean that was inserted into outputlocation\n#' @export\nfind_mean <- function(scores){\n  mean_scores <- mean(scores)\n  return(mean_scores)\n  }\n\n",
+    "created" : 1433355912918.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "367519966",
+    "id" : "D041AC46",
+    "lastKnownWriteTime" : 1433357335,
+    "path" : "~/Desktop/PackageMaking/ExcelSliceR/R/find_mean.R",
+    "project_path" : "R/find_mean.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
